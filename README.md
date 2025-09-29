@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiiiiiiiiiii
 
 <!--
 **EKIIE/EKIIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🍞 Name **Yada Boonying**  
+🍞 Name **Yada Boonying**  [Website](https://yada-ruby.vercel.app/)  
 🎓 Studying **Rajamangala University of Technology Lanna (RMUTL)**  
 💻 Major **Business Information Systems (BIS) – Software Development Track**  
 🚀 Interest **Web Development, UX/UI Design, Game Development**
@@ -68,6 +68,7 @@ feature: จัดการคำสั่งซื้อ, สร้างเล
 ## Contacts
 - 👾 Discord: ekiie#1999  
 - 📧 Email: milkyada@gmail.com  
+- 🥪 WebSite: [YADAYADA](https://yada-ruby.vercel.app/)  
 - 🐱 GitHub: [EKIIE](https://github.com/EKIIE)  
 - 💼 Facebook: [Milkky Browniiez](https://www.facebook.com/milky.yada)  
 
