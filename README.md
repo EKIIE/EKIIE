@@ -1,4 +1,4 @@
-## Hiiiiiiiiiii
+## Hiiiiiiiiiii 🫶🏻
 
 <!--
 **EKIIE/EKIIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Projects
-### 🚗 JR Car Rental System
+## 📌 Webdev Projects  
+### JR Car Rental System
 ระบบเช่ารถออนไลน์ที่พัฒนาโดยใช้ **PHP + MySQL + Bootstrap**  
 feature: จองรถ, อัปโหลดสลิปการชำระเงิน, QR PromptPay, ระบบจัดการรถและพนักงาน
 
@@ -52,20 +52,20 @@ feature: จัดการคำสั่งแจ้ง, ระบบแจ้
 
 ---
 
-### Kalamae Ordering System
-เว็บสั่งซื้อของครอบครัว พัฒนาเป็น **Node.js**  
+### Ordering System
+เว็บสั่งซื้อของ พัฒนาเป็น **Node.js**  
 feature: จัดการคำสั่งซื้อ, สร้างเลข invoice (YYMM###), ระบบแจ้งเตือน Line messaging api  
 
 ---
 
-## Learning
+## 📚 Learning
 - React
 - Flutter (Mobile App Dev)
 - API Integration (Fitbit, Line Notify, PromptPay QR)
 
 ---
 
-## Contacts
+## 📞 Contacts
 - 👾 Discord: ekiie#1999  
 - 📧 Email: milkyada@gmail.com  
 - 🥪 WebSite: [YADAYADA](https://yada-ruby.vercel.app/)  
