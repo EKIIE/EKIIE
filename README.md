@@ -24,29 +24,28 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
-- **Backend:** PHP, Node.js
-- **Database:** MySQL, phpMyAdmin
-- **Tools:** GitHub, VS Code, XAMPP, Laragon, Vercel
+- **Backend:** PHP, Node.js, Python
+- **Database:** MySQL
+- **Tools:** GitHub, VS Code
 
 ---
 
 ## 📌 Webdev Projects  
 ### JR Car Rental System
 ระบบเช่ารถออนไลน์ที่พัฒนาโดยใช้ **PHP + MySQL + Bootstrap**  
-feature: จองรถ, อัปโหลดสลิปการชำระเงิน, QR PromptPay, ระบบจัดการรถและพนักงาน
+feature: จองรถ, แจ้งเตือน, QR PromptPay, ระบบจัดการรถและพนักงาน
 
-<!--
-🔗 [ดูโปรเจกต์](https://github.com/EKI1E/Project-JRcarrental)
--->
+🔗 [ดูโปรเจกต์](http://3.106.232.160/Project-JRcarrental/)
+
 ---
 
-### BIS Online Store  
+### BIS Online Store mini project  
 เว็บขายสินค้าออนไลน์ (Stationery Store) ที่สร้างด้วย HTML + CSS + PHP  
 feature: จัดการสินค้า, ระบบล็อกอิน, ระบบจัดการ session  
 
 ---
 
-### Lost N Found line Notify  
+### Lost N Found line Notify mini project  
 เว็บแจ้งของสูญหายจากลูกค้าสู่กลุ่มไลน์ภายในของสถานบริการ PHP  
 feature: จัดการคำสั่งแจ้ง, ระบบแจ้งเตือนแชทบอท Line Notify  
 
@@ -54,7 +53,7 @@ feature: จัดการคำสั่งแจ้ง, ระบบแจ้
 
 ### Ordering System
 เว็บสั่งซื้อของ พัฒนาเป็น **Node.js**  
-feature: จัดการคำสั่งซื้อ, สร้างเลข invoice (YYMM###), ระบบแจ้งเตือน Line messaging api  
+feature: จัดการคำสั่งซื้อ, สร้างเลข invoice (YYMM###), ระบบแจ้งเตือน Line messaging api, ระบบแจ้งเตือน Discord  
 
 ---
 
