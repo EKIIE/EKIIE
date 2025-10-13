@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ระบบเช่ารถออนไลน์ที่พัฒนาโดยใช้ **PHP + MySQL + Bootstrap**  
 feature: จองรถ, แจ้งเตือน, QR PromptPay, ระบบจัดการรถและพนักงาน
 
-🔗 [ดูโปรเจกต์](http://3.106.232.160/Project-JRcarrental/)
+🔗 [View Project](http://3.106.232.160/Project-JRcarrental/)
 
 ---
 
