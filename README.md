@@ -1,4 +1,4 @@
-## Hiiiiiiiiiii 🫶🏻
+## Hiiiiiiiiiii 
 
 <!--
 **EKIIE/EKIIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,25 +17,30 @@ Here are some ideas to get you started:
 
 🍞 Name **Yada Boonying**  [Website](https://yada-ruby.vercel.app/)  
 🎓 Studying **Rajamangala University of Technology Lanna (RMUTL)**  
-💻 Major **Business Information Systems (BIS) – Software Development Track**  
-🚀 Interest **Web Development, UX/UI Design, Game Development**
+💻 Major **Business Information Systems (BIS) – Software Development**  
+🚀 Interest **Web Development, UX/UI Design, Game Development, Backend Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
 - **Backend:** PHP, Node.js, Python
+- **Framworks** CodeIgniter
 - **Database:** MySQL
 - **Tools:** GitHub, VS Code
 
 ---
 
 ## 📌 Webdev Projects  
+
+### RMUTL e-Thesis  
+ระบบคลังข้อมูลโปรเจคและวิทยานิพนธ์ โดยรวบรวมจัดเก็บโครงการวิจัย เอกสาร การนำเสนอ และการสอบจบโครงงาน
+
+---
 ### JR Car Rental System
 ระบบเช่ารถออนไลน์ที่พัฒนาโดยใช้ **PHP + MySQL + Bootstrap**  
 feature: จองรถ, แจ้งเตือน, QR PromptPay, ระบบจัดการรถและพนักงาน
-
-🔗 [View Project](http://3.106.232.160/Project-JRcarrental/)
+<!-- 🔗 [View Project](http://3.106.232.160/Project-JRcarrental/) -->
 
 ---
 
