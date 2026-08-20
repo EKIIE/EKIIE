@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🍞 Name **Yada Boonying**  [Website](https://yada-ruby.vercel.app/)  
+🍞 Name **Yada Boonying**  [View my Activities on my Website](https://yada-ruby.vercel.app/#certificates)  
 🎓 Studying **Rajamangala University of Technology Lanna (RMUTL)**  
 💻 Major **Business Information Systems (BIS) – Software Development**  
 🚀 Interest **Web Development, UX/UI Design, Game Development, Backend Developer**
